@@ -1,0 +1,12 @@
+streamlit
+zenml==0.50.0
+bentoml
+dagster
+numpy
+tensorflow
+tensorboard
+whylogs
+comet-ml
+
+# install setup to make folder as packages for easy imports 
+-e .
